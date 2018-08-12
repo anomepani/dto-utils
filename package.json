@@ -1,0 +1,11 @@
+{
+    "name": "dto-utils",
+    "version": "0.0.1",
+    "description": "Inspired from Dot Net Data Transfer Object Concept, Utility contains method which rename keys in existing object using plain Javascript code.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "anomepani",
+    "license": "ISC"
+}
